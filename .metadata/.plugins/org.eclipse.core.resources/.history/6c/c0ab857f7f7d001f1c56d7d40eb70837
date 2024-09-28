@@ -1,0 +1,8 @@
+package com.GitHub.GitHub;
+
+public class exampl {
+	public static void main(String[] args) {
+		System.out.println("hii");
+	}
+
+}
